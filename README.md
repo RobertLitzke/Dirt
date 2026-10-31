@@ -1,5 +1,7 @@
 # Dirt
 
+> **Moved.** Dirt now lives in `courses/soil/` of [RobertLitzke/CloudsWhatAreTheyUpTo](https://github.com/RobertLitzke/CloudsWhatAreTheyUpTo), with its history, and is served at https://robertlitzke.github.io/CloudsWhatAreTheyUpTo/soil/. This repository only deploys a page that forwards there (`moved/`); work happens in the new one.
+
 A gardener's workbook on soil: short illustrated lessons, in the manner of
 Bartosz Ciechanowski's explainers, on what soil is made of, how it holds
 water and air, what lives in it, and how to feed it and build it up. Each
